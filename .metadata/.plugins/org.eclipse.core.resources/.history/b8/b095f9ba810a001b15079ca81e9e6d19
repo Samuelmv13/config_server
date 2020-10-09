@@ -1,0 +1,5 @@
+package com.unifacisa.microservices.produtos;
+
+public class ProdutosController {
+
+}
